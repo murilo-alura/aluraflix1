@@ -1,5 +1,18 @@
 body {
     color: white;
     background-color: black;
-    font-family: sans-serif;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+header{
+    font-size: 50px;
 }
